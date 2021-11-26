@@ -1,0 +1,71 @@
+Elon Musk
+
+  Nascimento: 01/01/1970
+  Email: elon@email.com
+  Telefone: (81) 99999-9999
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis, elit vel mattis molestie, nunc arcu cursus tellus, sit amet molestie erat augue eget dolor. Curabitur purus quam, tempus id venenatis aliquet, ultrices sit amet est. Nullam pharetra vestibulum tellus et mollis. In et sapien ipsum. Fusce laoreet, ante et maximus porta, orci diam placerat lacus, sed mollis lectus mi a ligula. Vivamus hendrerit rutrum augue eu pretium. Proin euismod ullamcorper nunc in finibus. Duis non metus sed elit efficitur dignissim. Etiam vulputate lorem congue est congue consectetur. Nullam elementum euismod velit eu iaculis. Praesent eu aliquam augue.
+
+Suspendisse potenti. Sed eget tortor eu enim sollicitudin congue. Aliquam ut nulla elit. Nunc quis dictum nunc. Suspendisse vel tortor magna. Curabitur vulputate fermentum volutpat. Sed vitae porta felis. Aliquam eleifend sed quam vitae tempor. Pellentesque cursus ut sapien et porta. Donec volutpat nunc nulla, vestibulum placerat metus ultricies id. Praesent auctor imperdiet orci, quis consequat turpis ornare in.
+
+
+Endereço
+  Rua
+  Av. A, 720
+  Cidade
+  Paulista, PE
+  Bairro
+  Maranguape I
+
+
+Experiência
+  SpaceX
+  CEO e CTO
+  2016 - Atual
+  http://www.spacex.com/
+  Atividades: 
+  	* Desenvolver estratégias e planos de negócios de alta qualidade garantindo seu alinhamento com os objetivos de curto e longo prazo
+	* Liderar e motivar os subordinados para promover o engajamento dos funcionários, desenvolver uma equipe gerencial de alto desempenho
+	* Supervisionar todas as operações e atividades de negócios para garantir que produzam os resultados desejados e sejam consistentes com a estratégia e missão gerais
+	* Tome decisões de investimento de alta qualidade para promover o negócio e aumentar os lucros
+	* Aplicar a adesão às diretrizes legais e políticas internas para manter a legalidade e a ética empresarial da empresa
+	* Rever relatórios financeiros e não financeiros para conceber soluções ou melhorias
+	* Construir relações de confiança com os principais parceiros e partes interessadas e atuar como um ponto de contato para acionistas importantes
+	* Analisar situações e ocorrências problemáticas e fornecer soluções para garantir a sobrevivência e o crescimento da empresa
+	* Manter um conhecimento profundo dos mercados e da indústria da empresa
+  
+  Tesla
+  CEO
+  2014 - Atual
+  https://www.tesla.com/
+	* Desenvolver estratégias e planos de negócios de alta qualidade garantindo seu alinhamento com os objetivos de curto e longo prazo
+	* Liderar e motivar os subordinados para promover o engajamento dos funcionários, desenvolver uma equipe gerencial de alto desempenho
+	* Supervisionar todas as operações e atividades de negócios para garantir que produzam os resultados desejados e sejam consistentes com a estratégia e missão gerais
+	* Tome decisões de investimento de alta qualidade para promover o negócio e aumentar os lucros
+	* Aplicar a adesão às diretrizes legais e políticas internas para manter a legalidade e a ética empresarial da empresa
+	* Rever relatórios financeiros e não financeiros para conceber soluções ou melhorias
+	* Construir relações de confiança com os principais parceiros e partes interessadas e atuar como um ponto de contato para acionistas importantes
+	* Analisar situações e ocorrências problemáticas e fornecer soluções para garantir a sobrevivência e o crescimento da empresa
+	* Manter um conhecimento profundo dos mercados e da indústria da empresa
+	
+Competências
+  JavaScript
+  CSS
+  HTML
+  XML
+
+Formação Acadêmica
+  1. Instituto Federal de Educação, Ciência e Tecnologia da Pernambuco - Campus Olinda 
+	 Mestrado Profissional em Educação
+	 2021-Atual
+  	 Site da Instituição:  http://www.ifpe.edu.br/campus/olinda 
+  	 
+  2. Instituto Federal de Educação, Ciência e Tecnologia da Pernambuco - Campus Paulista < http://www.ifpe.edu.br/campus/paulista >
+	 Curso Superior em Tecnologia em Análise e Desenvolvimento de Sistemas
+	 2018-2021
+  	 Site da Instituição:  http://www.ifpe.edu.br/campus/paulista 
+
+  3. Instituto Federal de Educação, Ciência e Tecnologia da Pernambuco - Campus Paulista < http://www.ifpe.edu.br/campus/paulista >
+	 Curso Técnico Subsequente em Manutenção e Suporte em Informática
+	 2017-2018
+  	 Site da Instituição:  http://www.ifpe.edu.br/campus/paulista
