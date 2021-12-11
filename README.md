@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Formulario</title>
@@ -124,4 +123,4 @@ font-size: 18px;
 </body>
 
 </html>
-© 2021 GitHub, Inc.
+
